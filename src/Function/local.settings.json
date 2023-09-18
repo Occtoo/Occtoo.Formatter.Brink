@@ -1,0 +1,21 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "stockQueue": "localstockQueue",
+    "priceQueue": "localpriceQueue",
+    "productQueue": "localproductQueue",
+    "OcctooTokenAuthUrl": "https://destinations.occtoo.com/destinations/c67816fe-ab9b-4319-ae9a-3d871dbb0dc9/token",
+    "ApiUrl": "https://global.occtoo.com/sptech/brink/v4/product",
+    "StockApiUrl": "https://global.occtoo.com/sptech/brink/v4/stock",
+    "PriceApiUrl": "https://global.occtoo.com/sptech/brink/v4/price",
+    "OcctooClientId": "246db576-ed70-408a-85db-bc39772c4af3",
+    "OcctooClientSecret": "LC3qTUZU9DkK8vITwe0UZYzBdxLdNi4ZgnnP74/u/Do=",
+
+    "BrinkApiUrl": "https://management.eu-west-1.sptech.brinkcommerce.io",
+    "BrinkAccessTokenClientId": "7m6fn4avhg3qd3cpf9vav6d6a5",
+    "BrinkAccessTokenSecret": "1e030smp1o881gsd666utals5u01locbpcbuff6p4b3v8rtt8ij8",
+    "BrinkTokenAuthUrl": "https://brinkcommerce-sptech.auth.eu-west-1.amazoncognito.com/oauth2/token"
+  }
+}
