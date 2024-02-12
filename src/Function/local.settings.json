@@ -1,0 +1,21 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "stockQueue": "localstockQueue",
+    "priceQueue": "localpriceQueue",
+    "productQueue": "localproductQueue",
+    "OcctooTokenAuthUrl": "https://destinations.occtoo.com/destinations/%destinationId%/token",
+    "ApiUrl": "",
+    "StockApiUrl": "",
+    "PriceApiUrl": "",
+    "OcctooClientId": "",
+    "OcctooClientSecret": "",
+
+    "BrinkApiUrl": "",
+    "BrinkAccessTokenClientId": "",
+    "BrinkAccessTokenSecret": "",
+    "BrinkTokenAuthUrl": ""
+  }
+}
